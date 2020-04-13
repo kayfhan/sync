@@ -1,4 +1,4 @@
 [log_position]
-filename = mysql-bin.000001
-position = 1037602
+filename = mysql-bin-changelog.000003
+position = 39291144
 
