@@ -1,0 +1,1 @@
+nohup python sync.py --conf metainfo.conf --debug >/dev/null 2>&1 &
